@@ -17,7 +17,7 @@
 		133FA1A22A1EA17400FE40EC /* VideoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133FA1A12A1EA17400FE40EC /* VideoTableViewCell.swift */; };
 		133FA1A42A1EA18800FE40EC /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133FA1A32A1EA18800FE40EC /* Video.swift */; };
 		133FA1A62A1EA19F00FE40EC /* DetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133FA1A52A1EA19F00FE40EC /* DetailTableViewCell.swift */; };
-		133FA1AA2A1EAE9200FE40EC /* videos.json in Resources */ = {isa = PBXBuildFile; fileRef = 133FA1A92A1EAE9200FE40EC /* videos.json */; };
+		133FA1AE2A1EC69D00FE40EC /* videos.json in Resources */ = {isa = PBXBuildFile; fileRef = 133FA1AD2A1EC69D00FE40EC /* videos.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		133FA1A12A1EA17400FE40EC /* VideoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTableViewCell.swift; sourceTree = "<group>"; };
 		133FA1A32A1EA18800FE40EC /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		133FA1A52A1EA19F00FE40EC /* DetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewCell.swift; sourceTree = "<group>"; };
-		133FA1A92A1EAE9200FE40EC /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
+		133FA1AD2A1EC69D00FE40EC /* videos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = videos.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 		133FA18A2A1E98E200FE40EC /* YoutubeCloneApp */ = {
 			isa = PBXGroup;
 			children = (
-				133FA1A92A1EAE9200FE40EC /* videos.json */,
+				133FA1AD2A1EC69D00FE40EC /* videos.json */,
 				133FA18B2A1E98E200FE40EC /* AppDelegate.swift */,
 				133FA18D2A1E98E200FE40EC /* SceneDelegate.swift */,
 				133FA18F2A1E98E200FE40EC /* ViewController.swift */,
@@ -141,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				133FA1982A1E98E300FE40EC /* LaunchScreen.storyboard in Resources */,
-				133FA1AA2A1EAE9200FE40EC /* videos.json in Resources */,
+				133FA1AE2A1EC69D00FE40EC /* videos.json in Resources */,
 				133FA1952A1E98E300FE40EC /* Assets.xcassets in Resources */,
 				133FA1932A1E98E200FE40EC /* Main.storyboard in Resources */,
 			);
